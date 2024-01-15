@@ -25,5 +25,5 @@ else:
 
 
 
-subprocess.run(["python", "sixslookup.py"])
-subprocess.run(["python", "maplookup.py"])
+subprocess.run(["python3", "sixslookup.py"])
+subprocess.run(["python3", "maplookup.py"])
